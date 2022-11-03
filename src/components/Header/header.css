@@ -1,0 +1,17 @@
+.header {
+    background: linear-gradient(to bottom, #309130, #10d22a);
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 24px;
+    letter-spacing: 1px;
+    position: sticky;
+    top: 0;
+}
+
+.money {
+    margin: 0 10px;
+    font-weight: bold;
+}

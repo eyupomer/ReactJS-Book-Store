@@ -1,0 +1,65 @@
+.book {
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    width: calc(25% - 1.5rem);
+}
+
+.book img {
+    width: 100%;
+}
+
+.book h5 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.book .price {
+    font-size: 20px;
+    color: #179b17;
+}
+
+.book .actions {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.actions button {
+    cursor: pointer;
+    padding: 5px 15px;
+    flex: 1;
+    height: 30px;
+}
+
+.actions button[disabled] {
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
+.actions span {
+    text-align: center;
+    width: 60px;
+}
+
+.buy-btn {
+    background-color: #179b17;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+}
+
+.sell-btn {
+    background-color: #ccc;
+    color: #333;
+    border-radius: 5px 0 0 5px;
+}
+
+.actions .amount {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}

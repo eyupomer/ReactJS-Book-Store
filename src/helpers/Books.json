@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "title": "Son Av",
+        "author": "Jean-Cristophe Grange",
+        "price": 57,
+        "img": "https://cdn.bkmkitap.com/son-av-446150-8481445-44-O.jpg",
+        "desc": "Kara orman’da son av başladı… ardında hiçbir iz bırakmayan avcı kim?Komiser Niémans, yardımcısı Ivana Bogdovic’le Alsace bölgesinde işlenen vahşi bir cinayeti çözmeye gider. Kendi karanlık geçmişlerini de yanlarında götüren iki polis, Kara Orman’da saklanan bir sırrın peşine düşerler. Kızıl Nehirler’in başkahramanı Niémans’ın dönüşünü müjdeleyen Son Av, kökeni Nazi Almanyası’na kadar giden sürprizlerle dolu bir gerilim…"
+    },
+    {
+        "id": 2,
+        "title": "Ölü Ruhlar Ormanı",
+        "author": "Jean-Cristophe Grange",
+        "price": 52,
+        "img": "https://cdn.bkmkitap.com/olu-ruhlar-ormani-11735130-87-O.jpg",
+        "desc": "Genç ve yalnız bir kadın olan Yargıç Jeanne Korowa, tesadüfen şahit olduğu bir psikiyatri seansı sayesinde Paris`te işlenen tüyler ürpertici seri cinayetlerin failini keşfetmiştir. Ama elinde hiçbir kanıt yoktur ve katilin peşine tek başına düşmek zorundadır. Böylece Guatemala, Nikaragua ve Arjantin`de soluk soluğa ve kanlı bir takip başlar."
+    },
+    {
+        "id": 3,
+        "title": "Leyleklerin Uçuşu",
+        "author": "Jean-Cristophe Grange",
+        "price": 65,
+        "img": "https://cdn.bkmkitap.com/leyleklerin-ucusu-12523217-12-O.jpg",
+        "desc": "Göçmen kuşlardır leylekler. Her bahar Avrupa’ya gelir, yaz sonunda tekrar Afrika’ya doğru yola çıkarlar. Ama bu yıl geri dönmeyecekler.. Louis Antioche’un kayıp leyleklerin sırrını çözmek için çıktığı yolculuk kısa sürede kabusa dönüşür. Parçalanmış cesetler, nereden çıktığı belli olmayan katiller... Arayışı onu, Bulgaristan’daki Çingene mahallerinden işgal altındaki toprakların güneşte kavrulan kibutzlarına, Orta Afrika Cumhuriyeti’nin balta girmemiş ormanlarından Kalküta’nın araka sokaklarına kadar götürecektir. Hatta cehenneme kadar... Sınır tanımayan bir hayal gücü, kusursuz bir kurgu, tüyler ürpertici şiddet sahneleri, nefes nefese bir gerilim. Jean-Christophe Grange’yi bu tarzın zirvesine çıkaran, Kızıl Nehirler’i dünya çapında bir başarıya ulaştıran bu nitelikler, Leyleklerin Uçuşu’nda da var. Korkutucu bir yolculuk, şaşırtıcı bir kitap!"
+    },
+    {
+        "id": 4,
+        "title": "Küllerin Günü",
+        "author": "Jean-Cristophe Grange",
+        "price": 50,
+        "img": "https://cdn.bkmkitap.com/kullerin-gunu-12642205-53-O.jpg",
+        "desc": "Masumiyetin hüküm sürdüğü bir dünyada, katili öldürmeye sevk eden ne olabilir? Günah nedir bilmeyen bir toplumda nasıl olur da kan akar? Ya tam tersiyse… Suçlu, o topluluktaki tek masumsa…"
+    },
+    {
+        "id": 5,
+        "title": "Ölüler Diyarı",
+        "author": "Jean-Cristophe Grange",
+        "price": 63,
+        "img": "https://cdn.bkmkitap.com/oluler-diyari-11616383-36-O.jpg",
+        "desc": "Cinayet büro amiri Stephane Corso, bir dizi striptizci cinayetini araştırmakla görevlendirildiğinde, ne peşinde olduğu katilin karmaşık ruh halinin ne de girmesi gereken karanlık dünyanın farkındadır. Soruşturma onu geçmişi şaibeli, goya hayranı bir ressama götürür: Phılıppe Sobıeskı’ye. ressamla Corso arasındaki düello, porno ve sadomazoşizm dünyasının labirentlerinde bir kedi fare oyununa dönüşür. Gerilimin efendisi Grange, ölüler diyarı’nda insan doğasının kuytu köşelerini keşfe çıkıyor…"
+    },
+    {
+        "id": 6,
+        "title": "Lontano",
+        "author": "Jean-Cristophe Grange",
+        "price": 67,
+        "img": "https://cdn.bkmkitap.com/lontano-12058276-18-O.jpg",
+        "desc": "Jean-Christophe Grange’den Kongo-Fransa-Belçika üçgeninde tüyler ürpertici, soluk soluğa bir kovalamaca. Ölümsüzlüğün sırrına vakıf olanlardı. İntikam hissiyle yanıp tutuşan, kötülüğün öncüleriydi. Zamanın ve mekanın ötesine geçebilenlerdi.Afrika’nın derinliklerinden getirdikleri kara büyüleriyle aklın sınırlarını aşanlardı."
+    },
+    {
+        "id": 7,
+        "title":"Kongo'ya Ağıt",
+        "author": "Jean-Cristophe Grange",
+        "price": 67,
+        "img": "https://cdn.bkmkitap.com/kongoya-agit-12642135-23-O.jpg",
+        "desc": "*Lontano* devam ediyor! Bütün yollar cehenneme çıkıyor…Afrika’da, Floransa’da, Paris’te…Düşman aynı: Çivi Adam! İblisle son düello başlıyor!.."
+    },
+    {
+        "id": 8,
+        "title": "Siyah Kan",
+        "author": "Jean-Cristophe Grange",
+        "price": 55,
+        "img": "https://cdn.bkmkitap.com/siyah-kan-11552593-11-O.jpg",
+        "desc": "Güneydoğu Asya’da, Yengeç Dönencesi ile Ekvator çizgisi arasında bir yerlerde bir yol vardır. Siyah kanla çizilmiş bir yol. Korkunun ve ölümün hakim olduğu bir yol. Paris. İlk temas. Kuala Lumpur. Hayat Yolu. Uçuşan ve Çoğalan. Sonsuzluğun İşaretleri. Kamboçya. Bal ve Fresk. Tayland. Arınma Odası. Dünyadan soyutlanmış bu mekanda neler olduğunu anlayacaksınız! Bangkok. Gerçeğin Rengi aynı zamanda Yalanın da Rengi’dir! Ve Paris. Her şey sona ermedi, yeni başlıyor. ÇABUK SAKLAN, BABA GELİYOR!"
+    },
+    {
+        "id": 9,
+        "title": "Kurtlar İmparatorluğu",
+        "author": "Jean-Cristophe Grange",
+        "price": 51,
+        "img": "https://cdn.bkmkitap.com/kurtlar-imparatorlugu-11647075-12-O.jpg",
+        "desc": "Gerçekten etkileyici bir yazar. -The Guardian- Grange güçlü bir kalem. Onu seviyorum. -Anita Brookner, The Spectator- Eleştirilere, mantığa, gerçeğe meydan okuyan bir kitap... -The Washington Post- Paris’te sokak sokak, cadde cadde yaşanan bir kedi-fare oyunu... İstanbul’a kadar süren ve Nemrut Dağı’nda sona eren bir kaçma-kovalamaca... Jean-Christophe Grange’ye yaraşır bir kitap. -Le Monde- Seri cinayetler, uyuşturucu kaçakçılığı, Strasbourg-Saint-Denis’deki Küçük Türkiye, Fransız polisindeki iç hesaplaşmalar, tıbbın karanlık amaçlara alet edilmesi. Paris’i kana boyayan Türk mafyası. Kızıl Nehirler’in, Taş Meclisi’nin ve Leyleklerin Uçuşu’nun yazarı Grange’den yine çarpıcı, yine soluk soluğa bir roman."
+    },
+    {
+        "id": 10,
+        "title": "Sisle Gelen Yolcu",
+        "author": "Jean-Cristophe Grange",
+        "price": 59,
+        "img": "https://cdn.bkmkitap.com/sisle-gelen-yolcu-11541598-11-O.jpg",
+        "desc": "Ben gölgeyim. Ben avım. Ben katilim. Ben hedefim. Kurtulmak için tek çarem var: diğerinden kaçmak. Peki ya diğeri de bensem?"
+    },
+    {
+        "id": 11,
+        "title": "Kızıl Nehirler",
+        "author": "Jean-Cristophe Grange",
+        "price": 55,
+        "img": "https://cdn.bkmkitap.com/Data/B/D70/11548827.jpg",
+        "desc": "Biz Efendileriz, Biz Köleleriz. Biz Her Yerdeyiz, Hem de Hiçbir Yerde. Biz Karar Verenleriz. Kızıl Nehirlerin Hakimiyiz. Kalbinize güvenmiyorsanız ya da ocakta yemeğiniz varsa, bu kitabı okumaya başlamayın. Grange’nin sınır tanımayan hayal gücü, sürekli artan gerilim, etkileyici karakterler, birbirinden korkunç cinayetler; hepsi daha ilk satırlardan itibaren size hükmedecek... Kızıl Nehirler sadece Fransa’da 450.000 sattı ve 20 dile çevrildi. Soluk kesen bir tempo. İnsanı hemen saran bir hikaye. Çok gerçekçi şidd"
+    },
+    {
+        "id": 12,
+        "title": "Aklından Bir Sayı Tut",
+        "author": "John Verdon",
+        "price": 40,
+        "img": "https://cdn.bkmkitap.com/aklindan-bir-sayi-tut-12515118-75-O.jpg",
+        "desc": "Bir adam, posta kutusuna bırakılmış imzasız bir mektup alır. Mektupta şöyle yazmaktadır: Aklından herhangi bir sayı tut. 1 ila 1000 arasında herhangi bir sayı. Adam öylesine 658 sayısını tutar. Not şöyle devam etmektedir: Sırlarını nasıl bildiğimi göreceksin... Küçük zarfı aç.Aldıklarını geri vereceksin Vermiş olduklarını aldığın zaman. Biliyorum ne düşündüğünü, Ne zaman uyuduğunu, Nereye gittiğini, Nereye gideceğini. Seninle bir randevumuz var, Bay 658. Sıradanlıklara meydan okuyan, anında başınızı döndürecek ve ilgi çekici karakterlerinin kalp atışlarını tüm gerçekliğiyle hissedeceğiniz bir kitap. Aklından Bir Sayı Tut kolay kolay unutmayacağınız bir roman."
+    },
+    {
+        "id": 13,
+        "title": "Gözlerini Sımsıkı Kapat",
+        "author": "John Verdon",
+        "price": 40,
+        "img": "https://cdn.bkmkitap.com/gozlerini-simsiki-kapat-12515126-72-O.jpg",
+        "desc": "Aklından Bir Sayı Tut’un yazarından, İlk kitaptan çok daha iddialı yeni bir romanSana Bir Sürprizim Var... Gözlerini Sımsıkı KapatNew York’un en gözde dedektifiyken, basının kendisine yakıştırdığı isimden hep rahatsız olmuştu: Süper Dedektif. Bir bulmacayla karşılaştığında, mutlaka çözmek isterdi. Gurney’e göre her bulmacanın çözümü için mutlaka bir ipucu vardı. Peki ya bu sefer yoksa?Düğün günü öldürülen bir gelin... Ve olaya tanıklık eden yüzlerce davetli. Cinayeti kimin işlediği ortada, herkes kendinden emin ama ya hepsi zekice bir illüzyonla yanıltılıyorsa... Cinayet silahı dahil birçok detayda sürpriz akıl oyunlarını gördüğünde, Gurney tam bir psikopatla karşı karşıya olduğunu anlar.Gurney şeytanın bile aklına gelmeyecek yöntemleri, soruları ve keskin bakış açısıyla soruşturmaya bambaşka bir boyut kazandıracaktır. Kim daha zeki; Gurney mi, yoksa müthiş bir illüzyondan ibaret katil mi? John Verdon’dan, akıl oyunlarının iç içe geçtiği, sıra dışı bir roman."
+    },
+    {
+        "id": 14,
+        "title": "Peter Pan Ölmeli",
+        "author": "John Verdon",
+        "price": 40,
+        "img": "https://cdn.bkmkitap.com/peter-pan-olmeli-11559637-99-O.jpg",
+        "desc": "Peter Pan, büyümek istemeyen haylaz bir oğlan çocuğudur. Ebedi gençlik ile özdeşleştirilen bir karakterdir. Daha yedi yaşındayken pencereden uçup gitmiştir, bitmeyen bir çocukluğa sahiptir ve zamanını Varolmayan Ülke (Neverland) ismindeki adada, peri arkadaşı Tinker Bell ve Kayıp Çocuklar isimli çocuk çetesiyle, çeşitli maceralar yaşayarak geçirmektedir. Yazarın yaşamından ve tanıştığı kişilerden ilham alarak oluşturduğu Peter Pan karakteri özgürlüğü, masumiyeti ve çocukluğa duyulan özlemi temsil etmektedir."
+
+    },
+    {
+        "id": 15,
+        "title": "Şeytanı Uyandırma",
+        "author": "John Verdon",
+        "price": 40,
+        "img": "https://cdn.bkmkitap.com/seytani-uyandirma-12058236-73-O.jpg",
+        "desc": "Hiçbir cinayet kusursuz değildir. Özellikle Dahi Dedektif Dave Gurney bir olaya müdahil olup hiç kimsenin göremediği detayları ortaya çıkardığında, çıkışı olmadığı düşünülen labirentin çıkışını ustalıkla bulduğunda... Gurney, bir seri katil üzerine belgesel hazırlayan genç bir kıza danışmanlık yapmayı kabul eder. On yıl önce yaşanan bu olaylarda kurbanların hepsi keskin bir nişancı tarafından zifiri karanlıkta, pahalı Mercedes arabalarını kullanırken, aynı açıdan ve noktadan kusursuz biçimde vurulmuş ve bedenlerinin yanına birer oyuncak hayvan bırakılmıştır. Asla aydınlatılamayan bu cinayetlerin üstüne bir perde çekilmiştir ve kimse bu perdeyi kaldırabilecek kadar cesaretli değildir. Tek bir kişi dışında.Gurney’in, kimseye izini belli etmeyecek kadar dahiyane bir plan yapmış olan bu caniyle oynayabileceği tek bir oyun vardır. Ölüm oyunu: Kendini hedef göster, o sana gelsin."
+    },
+    {
+        "id": 16,
+        "title": "Kurt Gölü",
+        "author": "John Verdon",
+        "price": 40,
+        "img": "https://cdn.bkmkitap.com/kurt-golu-11639980-21-O.jpg",
+        "desc": "Gördüğünüz bir kabus, cinayet silahı olarak kullanılabilir mi? Ülkenin farklı yerlerinde yaşayan dört kişinin tek ortak noktası; aynı rüyayı gördüklerini ve bu rüyada kurt başlı bir hançerle öldürüldüklerini söylemiş olmalarıdır. Dördü de bu ifadelerinden hemen sonra, bilekleri kesilmiş halde bulunur ve yanı başlarında hepsini ölüme götüren kurt başlı bir hançer duruyordur. Onları intihara götüren bu kabuslar mıydı? Bir anda tüm dikkatler, ürkütücü atmosfere sahip Kurt Gölü diye bilinen yerde, hipnoz terapileri yapan Psikolog Richard Hammond’a yönelir. Her bir kurban ölmeden kısa bir süre önce Hammond ile Kurt Gölü’nde hipnoz terapisi görmüştür. Kurt Gölü’nün şeytani esrarengizliğinde en az onu tuzağa düşüren kar fırtınası kadar acımasız olan düşmanları, ne pahasına olursa olsun Gurney’i gerçeklerden uzak tutmaya kararlıdırlar. Duygusal açıdan kırılma noktasına gelen Gurney, şimdiye kadarki en korkunç düşmanı ile kendini ölümcül bir oyunun içinde bulur."
+    },
+    {
+        "id": 17,
+        "title": "Fırtınada Yanacaksın",
+        "author": "John Verdon",
+        "price": 40,
+        "img": "https://cdn.bkmkitap.com/firtinada-yanacaksin-8570963-34-O.jpg",
+        "desc": "New York’un sessiz sakin kasabası White River’da bir keskin nişancı dehşet saçıyor ve öldürülen polisin telefonuna bir uyarı mesajı geliyor. Kimsenin kimseye güvenmediği soruşturmaya danışmanlık yapması için çağrılan Gurney`in ise elinde gizemli bir nottan başka bir şey yok. Bir parktaki oyun alanında ayak tabanlarına üç farklı harf dağlanmış iki cesedin bulunmasıyla işler daha da karmaşık bir hal alırken yetkililerin resmi açıklamalarıyla ters düşen Gurney, kasabayı labirent gibi sarmış olaylar silsilesini tek başına çözmeye kararlı. Yaklaşmakta olan fırtına herkesi yakmadan cevaplaması gereken bir soru var: Bu akıldışı bulmacada gözden kaçırdığı şey ne?"
+    },
+    {
+        "id": 18,
+        "title": "Tepenin Laneti",
+        "author": "John Verdon",
+        "price": 40,
+        "img": "https://cdn.bkmkitap.com/tepenin-laneti-9499997-54-O.jpg",
+        "desc": "Dave Gurney polisiye/dedektif serisi hız kesmeden devam ediyor! Larchfield’ın en nüfuzlu adamı Angus Russell, Harrow Hill’deki malikânesinde boğazı kesilerek öldürülmüştür. Olay mahallindeki DNA ve parmak izleri, kurbana karşı husumeti bulunan belalı Billy Tate`e işaret eder. Ancak bir sorun vardır: Tate, bir gün önce kilisenin çatısından düşerek ölmüştür. Polis, Tate`nin cesedinin kaldırıldığı morgu kontrol ettiğinde cesedin yalnızca ortadan kaybolduğunu değil tabutun içeriden kırılarak açıldığını da keşfeder. Bu durum çok geçmeden yürüyen ölü, cehennemden gelen katil, zombi cinayeti olarak anılmaya başladığında bir zamanların huzurlu kasabası artık herkesin bir şüpheliye ve aynı zamanda kurbana dönüşebileceği korkunç bir kâbusa da uyanmış olur. Eski meslektaşı art arda işlenen bu tuhaf cinayetleri çözmek için kapısını çaldığında Dave Gurney, ölümün ötesinden öldürme ihtimali olan bir katili avlamak üzere tüm analitik becerilerini kullanmak zorundadır."
+    }
+]
